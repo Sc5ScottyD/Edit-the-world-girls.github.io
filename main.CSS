@@ -1,0 +1,13 @@
+body{
+background-color: turquoise;
+}
+
+a{
+background-color: turquoise;
+color:hotpink
+}
+
+a:hover{
+background-color: black;
+color:turquoise
+}
